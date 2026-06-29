@@ -5,7 +5,6 @@ import com.github.kwhat.jnativehook.NativeHookException;
 import com.github.kwhat.jnativehook.keyboard.NativeKeyEvent;
 import com.github.kwhat.jnativehook.keyboard.NativeKeyListener;
 import com.github.kwhat.jnativehook.NativeInputEvent;
-import transfast.RobotHelper;
 import java.io.IOException;
 import java.awt.datatransfer.UnsupportedFlavorException;
 
